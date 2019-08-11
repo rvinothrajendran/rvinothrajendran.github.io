@@ -1,4 +1,5 @@
-https://pbs.twimg.com/profile_images/1148964968097705984/2AeQzauu_400x400.jpg       ## Latest blog posts
+![alt text](https://pbs.twimg.com/profile_images/1148964968097705984/2AeQzauu_400x400.jpg)  
+## Latest blog posts
 
 ## Welcome to GitHub Pages
 
