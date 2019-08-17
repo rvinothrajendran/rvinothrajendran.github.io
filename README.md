@@ -13,3 +13,10 @@
      - [17-Aug-2019] <a href="https://www.youtube.com/watch?v=xR1hZKeWUTQ&t=417s/">Hello World - Bot Framework 4.0</a>
      - [17-Aug-2019] <a href="https://www.youtube.com/watch?v=81S3WJTRDxs&t=11s/">Bot Framework 4.0 Introduction</a>
      
+## XamlIslands in WPF<BR>
+   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/XAMLNavView">Source Code : Navigation view + inking control </a>
+     : <a href="https://twitter.com/vinothrajendran/status/1153681414375661569"> Output </a>
+   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/UWPCameraInWPF">Source Code : UWPCamera in WPF </a>
+     : <a href="https://twitter.com/marbtweeting/status/1155944113524449282"> Output </a>
+   
+     
