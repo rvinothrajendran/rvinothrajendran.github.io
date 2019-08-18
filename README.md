@@ -10,8 +10,10 @@
 
 ## Videos<BR>
    - ## Bot Framework 4.0 via Tamil language<BR>    
-     - [17-Aug-2019] <a href="https://www.youtube.com/watch?v=xR1hZKeWUTQ&t=417s/">Hello World - Bot Framework 4.0</a>
-     - [17-Aug-2019] <a href="https://www.youtube.com/watch?v=81S3WJTRDxs&t=11s/">Bot Framework 4.0 Introduction</a>
+     - <a href="https://www.youtube.com/watch?v=1BFN2LROmfo/">ActivityHandler Class in Bot framework</a>
+     - <a href="https://www.youtube.com/watch?v=GQd8PWRK3Bs/">Bot framework adapter & Bot TurnContext</a>
+     - <a href="https://www.youtube.com/watch?v=xR1hZKeWUTQ&t=417s/">Hello World - Bot Framework 4.0</a>
+     - <a href="https://www.youtube.com/watch?v=81S3WJTRDxs&t=11s/">Bot Framework 4.0 Introduction</a>
   
 ## Articles<BR>
    - <a href="https://www.c-sharpcorner.com/article/create-userdefined-dialogs-in-bot-v4-framework-bot-builder-net-core">User Defined Dialogs in Bot V4 Framework Bot Builder 😍 .NET Core</a><BR>
