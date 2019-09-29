@@ -31,6 +31,8 @@
      : <a href="https://twitter.com/marbtweeting/status/1155944113524449282"> Output </a>
    - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/WpfParallaxView">Source Code : Parallaxview in WPF </a>
      : <a href="https://twitter.com/vinothrajendran/status/1158382792662589440"> Output </a>
+   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/AutoSuggestBoxinWPF">Source Code : AutoSuggestBox in WPF </a>
+     : <a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a>
      
    ## Bosque Programming<BR>
    - <a href="https://www.c-sharpcorner.com/article/var-and-var-in-microsoft-bosque-programming-language">Var And Var! In Microsoft Bosque Programming Language</a><BR>
