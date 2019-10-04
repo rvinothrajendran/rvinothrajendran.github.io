@@ -3,6 +3,9 @@
 <BR>
 # Latest blog posts
 
+## Upcoming speaking events
+- [09-Nov-2019] <a href="https://www.meetup.com/DotNetBLR/events/264545071/?comment_table_id=505211227&comment_table_name=event_comment"> Adaptive cards 2.0 in Bot Framework 4.0 </a>
+
 ## Speaking Details<BR>
 - [03-Sep-2019] <a href="https://github.com/rvinothrajendran/rvinothrajendran.github.io/blob/master/meetupinfo.md"> Microsoft Bot Framework (BOSCH) </a>
 - [10-Aug-2019] <a href="https://www.meetup.com/DotNetBLR/events/262410498/">Bot Framework Build 2019 Updates</a>
