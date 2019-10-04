@@ -29,21 +29,36 @@
    
 ## XamlIslands in WPF(Sample Code)<BR>
    
-   /***
-| __Control__ | __SourceCode__ | __Output__ |
-|-------------|------------|------------|
-| Navigation view + inking |  <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/XAMLNavView">Navigation & Inking </a>| <a href="https://twitter.com/vinothrajendran/status/1153681414375661569"> Output </a> |
-| UWPCamera |  <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/UWPCameraInWPF"> UWPCamera in WPF </a>| <a href="https://twitter.com/marbtweeting/status/1155944113524449282"> Output </a> |
+/***
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Control</b></th>
+    <th class="tg-yw4l"><b>Source Code</b></th>
+    <th class="tg-yw4l"><b>Output</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Navigation view & Inking</td>
+    <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/XAMLNavView">Navigation & Inking </a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1153681414375661569"> Output </a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UWP-Camera</td>
+    <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/UWPCameraInWPF">UWPCamera in WPF </a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/marbtweeting/status/1155944113524449282"> Output </a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Parallaxview</td>
+    <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/WpfParallaxView">Parallaxview in WPF </a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1158382792662589440"> Output </a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">AutoSuggestBox</td>
+    <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/AutoSuggestBoxinWPF">AutoSuggestBox in WPF </a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a></td>
+  </tr>
+</table>
 ***/
-   
-   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/XAMLNavView">Source Code : Navigation view + inking control </a>
-     : <a href="https://twitter.com/vinothrajendran/status/1153681414375661569"> Output </a>
-   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/UWPCameraInWPF">Source Code : UWPCamera in WPF </a>
-     : <a href="https://twitter.com/marbtweeting/status/1155944113524449282"> Output </a>
-   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/WpfParallaxView">Source Code : Parallaxview in WPF </a>
-     : <a href="https://twitter.com/vinothrajendran/status/1158382792662589440"> Output </a>
-   - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/AutoSuggestBoxinWPF">Source Code : AutoSuggestBox in WPF </a>
-     : <a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a>
+ 
      
 ## More articles are <a href="https://www.c-sharpcorner.com/members/vinoth-rajendran2"> here </a>
 
