@@ -28,6 +28,14 @@
    - <a href="https://onedrive.live.com/view.aspx?cid=B1E8EE50CD44BF76&resid=B1E8EE50CD44BF76%21156681&canary=3wfTgnoOHOB6qxERymQCfkfn24wG2bFhnfBjlmxxD1Y%3D9&ithint=%2Epdf&open=true&app=WordPdf">UWP Background Task Lab E-book</a><BR>
    
 ## XamlIslands in WPF(Sample Code)<BR>
+   
+   /***
+| __Control__ | __SourceCode__ | __Output__ |
+|-------------|------------|------------|
+| Navigation view + inking |  <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/XAMLNavView">Navigation & Inking </a>| <a href="https://twitter.com/vinothrajendran/status/1153681414375661569"> Output </a> |
+| UWPCamera |  <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/UWPCameraInWPF"> UWPCamera in WPF </a>| <a href="https://twitter.com/marbtweeting/status/1155944113524449282"> Output </a> |
+***/
+   
    - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/XAMLNavView">Source Code : Navigation view + inking control </a>
      : <a href="https://twitter.com/vinothrajendran/status/1153681414375661569"> Output </a>
    - <a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/UWPCameraInWPF">Source Code : UWPCamera in WPF </a>
