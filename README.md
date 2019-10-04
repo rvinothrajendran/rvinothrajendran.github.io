@@ -28,8 +28,6 @@
    - <a href="https://onedrive.live.com/view.aspx?cid=B1E8EE50CD44BF76&resid=B1E8EE50CD44BF76%21156681&canary=3wfTgnoOHOB6qxERymQCfkfn24wG2bFhnfBjlmxxD1Y%3D9&ithint=%2Epdf&open=true&app=WordPdf">UWP Background Task Lab E-book</a><BR>
    
 ## XamlIslands in WPF(Sample Code)<BR>
-   
-/***
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Control</b></th>
@@ -57,9 +55,7 @@
     <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a></td>
   </tr>
 </table>
-***/
- 
-     
+    
 ## More articles are <a href="https://www.c-sharpcorner.com/members/vinoth-rajendran2"> here </a>
 
 ## Bosque Programming<BR>
