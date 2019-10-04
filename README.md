@@ -24,6 +24,8 @@
    - <a href="https://www.c-sharpcorner.com/article/custom-validation-in-bot-v4-framework-bot-builder-net-core2"> Custom Validation In Bot V4 Framework Bot Builder 😍 .NET Core </a><BR>
    - <a href="https://www.c-sharpcorner.com/article/prompt-and-waterfall-dialog-in-bot-v4-framework-bot-builder-net-core">Prompt & Waterfall Dialog In Bot V4 Framework Bot Builder😍 .NET Core</a><BR>
    
+## More articles Info are <a href="https://www.c-sharpcorner.com/members/vinoth-rajendran2"> here </a>
+   
 ## Download UWP Background Task Lab e-book<BR>
    - <a href="https://onedrive.live.com/view.aspx?cid=B1E8EE50CD44BF76&resid=B1E8EE50CD44BF76%21156681&canary=3wfTgnoOHOB6qxERymQCfkfn24wG2bFhnfBjlmxxD1Y%3D9&ithint=%2Epdf&open=true&app=WordPdf">UWP Background Task Lab E-book</a><BR>
    
@@ -54,10 +56,5 @@
     <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/AutoSuggestBoxinWPF">AutoSuggestBox in WPF </a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a></td>
   </tr>
-</table>
-    
-## More articles are <a href="https://www.c-sharpcorner.com/members/vinoth-rajendran2"> here </a>
+</table> 
 
-## Bosque Programming<BR>
-   - <a href="https://www.c-sharpcorner.com/article/var-and-var-in-microsoft-bosque-programming-language">Var And Var! In Microsoft Bosque Programming Language</a><BR>
-   - <a href="https://www.c-sharpcorner.com/article/welcome-bosque-programming-language/">Bosque Programming</a><BR>
