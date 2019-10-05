@@ -56,5 +56,10 @@
     <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/AutoSuggestBoxinWPF">AutoSuggestBox in WPF </a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a></td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">Flyout</td>
+    <td class="tg-yw4l"><a href="https://github.com/rvinothrajendran/XamlIslands/tree/master/Flyout/WPFXamlTemplate">Flyout in WPF </a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/vinothrajendran/status/1178324166031728649"> Output </a></td>
+  </tr>
 </table> 
 
