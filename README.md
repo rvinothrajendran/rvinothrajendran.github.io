@@ -14,9 +14,8 @@
 
 ## Videos<BR>
    - ## Next Video tutorial<BR>
-      - Prompt Dialog
-      - Waterfall Dialog
-      - Dialog Demo
+      - Implement Custom validation using Prompt Dialog
+      - ComponentDialog      
    - ## Learn Bot Framework 4.0 via Tamil language<BR>    
      - <a href="https://www.youtube.com/watch?v=WNuSEqKPSVw"> 09 - Azure Bot Dialog Demo using Prompt,Waterfall</a>  
      - <a href="https://www.youtube.com/watch?v=8QlgVdTr4F0"> 08 - Azure Bot Waterfall Dialog</a>  
