@@ -18,6 +18,9 @@
       - Waterfall Dialog
       - Dialog Demo
    - ## Learn Bot Framework 4.0 via Tamil language<BR>    
+     - <a href="https://www.youtube.com/watch?v=WNuSEqKPSVw"> 09 - Azure Bot Dialog Demo using Prompt,Waterfall</a>  
+     - <a href="https://www.youtube.com/watch?v=8QlgVdTr4F0"> 08 - Azure Bot Waterfall Dialog</a>  
+     - <a href="https://www.youtube.com/watch?v=1cOtRLlIOXw"> 07 - Azure Bot Prompt Dialog</a>  
      - <a href="https://www.youtube.com/watch?v=YvADtyrrBF4"> 06 - Azure Bot Dialog</a>   
      - <a href="https://www.youtube.com/watch?v=0U9fiPsLevM&t=390s/">05 - Azure Bot state management (User,Conversation)</a>
      - <a href="https://www.youtube.com/watch?v=1BFN2LROmfo/">04 - ActivityHandler Class in Bot framework</a>
