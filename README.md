@@ -14,6 +14,8 @@
 
 ## Videos<BR>
    - ## Next Video tutorial<BR>
+      - qna maker
+      - LUIS
       - Implement Custom validation using Prompt Dialog
       - ComponentDialog      
    - ## Learn Bot Framework 4.0 via Tamil language<BR>    
