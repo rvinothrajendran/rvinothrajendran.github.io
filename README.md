@@ -12,6 +12,15 @@
 - [20-July-2019] <a href="https://www.meetup.com/BDotNetUG/events/262892444/">XAML Islands for Desktop Apps</a>
 - [9-Feb-2019] <a href="https://www.meetup.com/DotNetBLR/events/257654773/">Bot Framework 4.0</a>
 
+## Botbuilder-community-python
+   ## PR In-Development
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/9"> EmailPrompt (Dialog & Prompt) </a>
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/11"> InternetPrompt (Dialog & Prompt) </a>
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/12"> GuidPrompt (Dialog & Prompt) </a>
+  ## PR Completed
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/1"> NumberWithUnitPrompt (Dialog & Prompt) </a> 
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/3"> NumberWithTypePrompt (Dialog & Prompt) </a> 
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/6"> PhoneNumberPrompt (Dialog & Prompt) </a>  
 ## Videos<BR>
    - ## Next Video tutorial<BR>
       - qna maker
