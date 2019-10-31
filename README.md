@@ -24,13 +24,13 @@
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/3"> NumberWithTypePrompt (Dialog & Prompt) </a> 
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/6"> PhoneNumberPrompt (Dialog & Prompt) </a>  
    <BR>
+      
 ## Videos<BR>
    - ## Next Video tutorial<BR>
-      - qna maker
-      - LUIS
-      - Cards
-      - Implement Custom validation using Prompt Dialog
-      - ComponentDialog      
+      - qna maker<BR>
+      - LUIS<BR>
+      - Cards<BR>
+      - ComponentDialog<BR>
    - ## Learn Bot Framework 4.0 via Tamil language<BR>    
      - <a href="https://www.youtube.com/watch?v=WNuSEqKPSVw"> 09 - Azure Bot Dialog Demo using Prompt,Waterfall</a>  
      - <a href="https://www.youtube.com/watch?v=8QlgVdTr4F0"> 08 - Azure Bot Waterfall Dialog</a>  
