@@ -12,7 +12,7 @@
 - [20-July-2019] <a href="https://www.meetup.com/BDotNetUG/events/262892444/">XAML Islands for Desktop Apps</a>
 - [9-Feb-2019] <a href="https://www.meetup.com/DotNetBLR/events/257654773/">Bot Framework 4.0</a>
 
-## Botbuilder-community-python (support)<BR>
+## Botbuilder-community-python<BR>
 
    <B>PR-In-Development</B> <BR>
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/9"> EmailPrompt (Dialog & Prompt) </a>
