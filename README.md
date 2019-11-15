@@ -18,7 +18,7 @@
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/3"> NumberWithTypePrompt (Dialog & Prompt) </a> 
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/6"> PhoneNumberPrompt (Dialog & Prompt) </a>  
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/9"> EmailPrompt (Dialog & Prompt) </a>
-    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/11"> InternetPrompt (Dialog & Prompt) </a>
+   - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/11"> InternetPrompt (Dialog & Prompt) </a>
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/12"> GuidPrompt (Dialog & Prompt) </a>
    <BR>
       
