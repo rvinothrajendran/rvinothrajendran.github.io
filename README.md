@@ -13,7 +13,7 @@
 - [9-Feb-2019] <a href="https://www.meetup.com/DotNetBLR/events/257654773/">Bot Framework 4.0</a>
 
 ## Visual Studio Extension
-<a href="https://marketplace.visualstudio.com/items?itemName=Vinoth.EchoBot">Created visual studio extension for Bot framework for Python</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=Vinoth.EchoBot">Created visual studio extension for Bot framework for Python</a><BR>
 <a href="https://marketplace.visualstudio.com/items?itemName=Vinoth.python-bot-shipment">Created Python Bot Shipment</a>
 ## Open source contribution - Botbuilder-community-python<BR>
    <B>PR-Completed</B> <BR>
