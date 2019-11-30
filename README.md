@@ -14,7 +14,7 @@
 
 ## Visual Studio Extension
 <a href="https://marketplace.visualstudio.com/items?itemName=Vinoth.EchoBot">Created visual studio extension for Bot framework for Python</a><BR>
-<a href="https://marketplace.visualstudio.com/items?itemName=Vinoth.python-bot-shipment">Created Python Bot Shipment</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=Vinoth.python-bot-shipment">Created Python Bot code Shipment for Visual Studio Code</a>
 ## Open source contribution - Botbuilder-community-python<BR>
    <B>PR-Completed</B> <BR>
    - <a href="https://github.com/BotBuilderCommunity/botbuilder-community-python/issues/1"> NumberWithUnitPrompt (Dialog & Prompt) </a> 
